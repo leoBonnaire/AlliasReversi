@@ -1,2 +1,2 @@
 # AlliasReversi
-Game based on the Reversi game
+Game based on the Reversi game in JS
